@@ -102,11 +102,16 @@ body{
   padding: 30px;
   border-radius: 48%;
 }
+
 h1{
-  color: rgb(236, 71, 98) ;
-font-family: cursive;
+  color:rgb(111, 185, 103);
 font-size: 3rem;
+justify-content: center;
+text-align: center;
+font-family: "Arvo", cursive;
+text-shadow: 3px 0 #DA0463;
 }
+
 .btn {
   width:20%;
   justify-content: center;
