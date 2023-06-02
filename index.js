@@ -10,4 +10,8 @@ document.querySelector("body").addEventListener("click",function(){
     var audio = new Audio("Kali Kali Zulfon Ke - Madhur Sharma.mp3");
     audio.play();
 }, {once : true});
+if(n>=50){
+    alert("Hello,You Love each other!");
+    audio.play();
+}
 
